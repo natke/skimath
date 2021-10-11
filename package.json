@@ -1,0 +1,29 @@
+{
+  "name": "skimath",
+  "version": "0.0.1",
+  "description": "Math for Ski pricing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natke/skimath.git"
+  },
+  "keywords": [
+    "ski",
+    "math",
+    "price",
+    "package"
+  ],
+  "author": "natke, rjotten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natke/skimath/issues"
+  },
+  "homepage": "https://github.com/natke/skimath#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-nunjucks-render": "^2.2.3"
+  }
+}
